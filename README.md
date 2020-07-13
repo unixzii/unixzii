@@ -1,23 +1,19 @@
 <img src="https://github.com/unixzii/unixzii/raw/master/hero.png"></img>
 
-## po [unixzii description]
+## Hi there, I'm Cyandev. 👋
 
-Hi there, I'm Cyandev. 👋
+```
+(lldb) po [unixzii description]
 
 {
-
-&nbsp;&nbsp;&nbsp;&nbsp;📱 = "I now develop iOS/macOS applications, and used to be an Android developer";
-
-&nbsp;&nbsp;&nbsp;&nbsp;🤔 = "I focus on GUI tech stack and anything about user interface";
-
-&nbsp;&nbsp;&nbsp;&nbsp;🌟 = "I love crafting delightful user experience and  wonderful things";
-
-&nbsp;&nbsp;&nbsp;&nbsp;🔨 = "I use Objective-C (in serious work), Swift, JavaScript, Dart, etc. Currently learning Rust 🦀 and other interesting techniques";
-
-&nbsp;&nbsp;&nbsp;&nbsp;📂 = "I work at ByteDance, and before that I was at Alibaba";
-
-&nbsp;&nbsp;&nbsp;&nbsp;💬 = "I'm active on [Twitter](https://twitter.com/unixzii), DMs are welcomed";
-
-&nbsp;&nbsp;&nbsp;&nbsp;📫 = "AMA via issues in this repo";
-
+    📱 = "I now develop iOS/macOS applications, and used to be an Android developer";
+    🤔 = "I focus on GUI tech stack and anything about user interface";
+    🌟 = "I love crafting delightful user experience and  wonderful things";
+    🔨 = "I use Objective-C (in serious work), Swift, JavaScript, Dart, etc.";
+    🦀 = "I am currently learning Rust and other interesting techniques";
+    📂 = "I work at ByteDance, and before that I was at Alibaba";
+    💬 = "I am active on Twitter (@unixzii), DMs are welcomed";
+    📫 = "AMA via issues in this repo";
+    🤫 = "Fun fact: I use unixzii as my username over 12 years ago...";
 }
+```
