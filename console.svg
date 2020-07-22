@@ -1,0 +1,103 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          padding: 16px;
+          overflow: auto;
+          font-size: 85%;
+          line-height: 1.45;
+          background-color: #1f1f24;
+          color: #fff;
+          border-radius: 6px;
+        }
+
+        pre {
+          display: inline;
+        }
+
+        .container, pre {
+          font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+        }
+
+        .prompt {
+          color: #41b645;
+        }
+
+        .user-input {
+          font-weight: bold;
+        }
+
+        .caret {
+          position: absolute;
+          display: inline-block;
+          margin-top: 2px;
+          width: 8px;
+          height: 16px;
+          background: #fff;
+        }
+
+        #phase1 {
+          animation: revealPhase 1.1s;
+        }
+
+        #caret1 {
+          margin-left: 8px;
+          animation: caretBlink 1s infinite, hideCaret 1s both;
+        }
+
+        #caret2 {
+          animation: caretBlink 1s infinite, hideCaret2 3s both;
+        }
+
+        #phase3 {
+          animation: revealPhase 3.1s;
+        }
+
+        @keyframes revealPhase {
+          0% { visibility: hidden; }
+          90% { visibility: hidden; }
+          100% { }
+        }
+
+        @keyframes hideCaret {
+          0% { visibility: visible; }
+          90% { visibility: visible; }
+          100% { visibility: hidden; }
+        }
+
+        @keyframes hideCaret2 {
+          0% { visibility: hidden; }
+          50% { visibility: hidden; }
+          80% { visibility: visbile; }
+          90% { visibility: visible; }
+          95% { visibility: hidden; }
+          100% { visibility: hidden; }
+        }
+
+        @keyframes caretBlink {
+          0% { opacity: 0; }
+          50% { opacity: 0; }
+          50.0001% { opacity: 1; }
+          100% { }
+        }
+      </style>
+      <div class="container">
+        <pre class="prompt user-input">(lldb)</pre><div id="caret1" class="caret" /><pre id="phase1" class="user-input"> po [unixzii description]</pre>
+        <pre id="phase2">
+<div id="caret2" class="caret" />
+</pre><pre id="phase3">{
+    📱 = "I now develop iOS/macOS applications, and used to be an Android developer";
+    🤔 = "I focus on GUI tech stack and anything about user interface";
+    🌟 = "I love crafting delightful user experience and wonderful things";
+    🔨 = "I use Objective-C (in serious work), Swift, JavaScript, Dart, etc.";
+    🦀 = "I am currently learning Rust and other interesting techniques";
+    📂 = "I work at ByteDance, and before that I was at Alibaba";
+    💬 = "I am active on Twitter (@unixzii), DMs are welcomed";
+    📫 = "AMA via issues in this repo";
+    🤫 = "Fun fact: I use unixzii as my username over 12 years ago...";
+}</pre>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
