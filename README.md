@@ -1,6 +1,6 @@
 <img src="https://github.com/unixzii/unixzii/raw/master/hero.png"></img>
 
-## Hi there, I'm Cyandev. 👋
+## 👋 Hi there, I'm Cyandev.
 
 ```
 (lldb) po [unixzii description]
