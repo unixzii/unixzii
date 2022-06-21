@@ -6,14 +6,12 @@
 (lldb) po [unixzii description]
 
 {
-    📱 = "I now develop iOS/macOS applications, and used to be an Android developer";
+    📱 = "I'm on the road to a full-stack developer, and used to be an Android developer";
     🤔 = "I focus on GUI tech stack and anything about user interface";
-    🌟 = "I love crafting delightful user experience and  wonderful things";
-    🔨 = "I use Objective-C (in serious work), Swift, JavaScript, Dart, etc.";
-    🦀 = "I am currently learning Rust and other interesting techniques";
+    🌟 = "I love crafting delightful user experience and wonderful things";
+    🔨 = "I use Swift, Objective-C, TypeScript, C++, Golang, Rust, etc.";
     📂 = "I work at ByteDance, and before that I was at Alibaba";
     💬 = "I am active on Twitter (@unixzii), DMs are welcomed";
     📫 = "AMA via issues in this repo";
-    🤫 = "Fun fact: I use unixzii as my username over 12 years ago...";
 }
 ```
