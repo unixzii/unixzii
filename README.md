@@ -10,6 +10,6 @@
     🌟 = "I love crafting delightful user experience and wonderful things";
     🔨 = "I use Swift, Objective-C, Rust, TypeScript, Kotlin, C++, etc.";
     💼 = "I work at Zoom, and before that I was at ByteDance and Alibaba";
-    💬 = "I am active on Twitter (@unixzii), DMs are welcomed";
+    💬 = "I'm active on Twitter (@unixzii), DMs are welcomed";
 }
 ```
